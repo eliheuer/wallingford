@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>700</integer>
 	<key>descender</key>
-	<integer>-200</integer>
+	<integer>-100</integer>
 	<key>familyName</key>
 	<string>Wallingford</string>
 	<key>styleName</key>
@@ -15,6 +15,6 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>xHeight</key>
-	<integer>500</integer>
+	<integer>600</integer>
 </dict>
 </plist>
