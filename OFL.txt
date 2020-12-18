@@ -1,5 +1,4 @@
-Copyright 2020 The Wallignford Project Authors (https://github.com/eliheuer/wallingford).
-with Reserved Font Name Wallingford.
+Copyright 2020 The Wallingford Project Authors (https://github.com/eliheuer/wallingford)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
