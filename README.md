@@ -1,2 +1,3 @@
-# wallingford
-Headline typeface made with Runebender (work in progress)
+# Wallingford
+Work in progress typeface made with Runebender.
+![Refrence Image 1](documentation/drawbot/specimen-001.gif)
