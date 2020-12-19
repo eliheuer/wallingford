@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Wallingford';
+    src: url('../../fonts/ttf/Wallingford.ttf');
+}
+body {
+    font-family:Wallingford;
+    background-color:#000;
+    color:#ddd;
+}
+p {
+    font-size:8em;
+    line-height:0.1;
+    margin-bottom:-0.3em;
+}
